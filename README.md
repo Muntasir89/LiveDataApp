@@ -18,4 +18,4 @@ class MainViewModel: ViewModel() {
 }
 ```
 ### Output:
-
+![ouput](https://user-images.githubusercontent.com/78687005/201042951-5d5668ac-8aff-4061-8226-d43073162021.gif)
